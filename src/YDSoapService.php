@@ -7,3 +7,12 @@ class YDSoapService
         return 'Hello World com composer!';
     }
 }
+
+
+
+,
+    "autoload":{
+        "psr-4":{
+            "dmyd\\YDSoapService\\":"./vendor/YDSoapService"
+        }
+     }

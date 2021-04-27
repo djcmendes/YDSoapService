@@ -1,0 +1,13 @@
+{
+    "name": "djcmendes/ydsoapservice",
+    "description": "Soap Service",
+    "type": "library",
+    "authors": [
+        {
+            "name": "David Mendes",
+            "email": "djcmendes@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
